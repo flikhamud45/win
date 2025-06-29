@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 // path to the dll to be injected
-#define LIBRARY "C:\\Users\\User\\source\\repos\\winapi\\winapi\\my_awesome_dll.dll"
+#define LIBRARY "C:\\Users\\User\\source\\repos\\winapi\\winapi\\mydll.dll"
 // the PID of the injected process (notepad)
 #define PID 37096 
 

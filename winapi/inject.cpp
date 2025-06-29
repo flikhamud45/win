@@ -6,6 +6,7 @@
 // the PID of the injected process (notepad)
 #define PID 37096 
 
+
 int main()
 {
 	HANDLE hProcess = OpenProcess(
